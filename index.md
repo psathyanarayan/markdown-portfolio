@@ -4,18 +4,25 @@ layout: default
 
 {% include 01-name.md %}
 
-<br>
+ <<<<<<< add-images-links
 
-{% include 02-image.md %}
+ <br>
 
-<br>
+ {% include 02-image.md %}
 
-{% include 03-links.md %}
+ <br>
 
-<br>
+ <<<<<<< add-lists-emphasis
+ <br>
 
-{% include 04-lists.md %}
+ {% include 04-lists.md %}
 
-<br>
+ <br>
 
-{% include 05-emphasis.md %}
+ {% include 05-emphasis.md %}
+ =======
+  {% include 03-links.md %}
+
+  =======
+  >>>>>>> main
+ >>>>>>> main
