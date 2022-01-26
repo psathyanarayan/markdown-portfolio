@@ -1,9 +1,6 @@
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
-  <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-  </ul>
-</ul>
+- Item 1
+- Item 1
+- Item 1
+- Item 1
+- - Item 1
+- - Item 1
