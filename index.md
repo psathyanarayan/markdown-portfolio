@@ -4,11 +4,15 @@ layout: default
 
 {% include 01-name.md %}
 
-<br>
+ <<<<<<< add-images-links
 
-{% include 02-image.md %}
+ <br>
 
-<br>
+ {% include 02-image.md %}
 
-{% include 03-links.md %}
+ <br>
 
+ {% include 03-links.md %}
+
+ =======
+ >>>>>>> main
